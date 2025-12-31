@@ -74,7 +74,7 @@ footer { text-align:center; margin:30px 0 10px 0; font-size:0.85em; color:#777; 
 
 </main>
 <footer>
-&copy; 2025 InvoiceQuick 2.0 | <a href="#">Impressum / Legal</a> | <a href="#">Datenschutz / Privacy</a>
+&copy; 2025 myinvoice | <a href="#">Impressum / Legal</a> | <a href="#">Datenschutz / Privacy</a>
 </footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
