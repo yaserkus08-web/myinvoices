@@ -5,7 +5,7 @@ myinvoices – Fast, professional invoices in PDF. Free trial, one-time payment 
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>InvoiceQuick 2.0 | Rechnungen erstellen</title>
+<title>myinvoices | Rechnungen erstellen</title>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
 <style>
 body { font-family:'Roboto',sans-serif; margin:0; padding:0; background:#f4f6f8; color:#333; }
